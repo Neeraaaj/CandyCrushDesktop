@@ -10,7 +10,6 @@ import ScoreBoard from './components/ScoreBoard'
 import Navbar from './components/Navbar'
 import toast, {Toaster} from 'react-hot-toast'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import Login from './login'
 
 const width = 8
 const candyColors = [
